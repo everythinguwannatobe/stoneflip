@@ -3,12 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.35",
+    "@react-three/cannon": "^6.5.2",
+    "@react-three/drei": "^9.56.24",
+    "@react-three/fiber": "^8.11.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/three": "^0.149.0",
+    "framer-motion": "^9.0.2",
+    "gsap": "^3.11.4",
+    "leva": "^0.9.34",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-full-page": "^0.1.12",
+    "react-full-page-scroller": "^0.1.6",
+    "react-gsap": "^3.2.1",
+    "react-horizontal-scrolling": "^0.1.13",
+    "react-page-scroller": "^2.3.1",
+    "react-reconciler": "^0.29.0",
+    "react-reveal": "^1.2.2",
     "react-scripts": "5.0.1",
+    "react-scroll-motion": "^0.3.2",
+    "react-scrollmagic": "^2.3.0",
+    "styled-components": "^5.3.8",
+    "three": "^0.149.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +54,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
   }
 }
